@@ -1,0 +1,17 @@
+
+*{
+  font-family: "Roboto", sans-serif;
+    box-sizing: border-box;
+}
+:root{
+
+--Title_color: #050013;
+--default_font: "Roboto", sans-serif;
+--text_color: #ffff;
+--number_color: #2f2e326c;
+--type_background: #f1f1fb56;
+--gress_background_color: #00a542;
+--fire_background_color: #bf2600;
+--water_background_color: #006bb2;
+
+}
